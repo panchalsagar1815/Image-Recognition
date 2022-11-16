@@ -1,4 +1,4 @@
-# This project deetcts the position of clicks on the image and finally provides a warp perspective after 4 clicks
+# This project deetcts the position of clicks on the image and finally provides a warp perspective after 4 clicks.
 # let's Starts By Importing required Libraries
 import cv2
 import numpy as np
