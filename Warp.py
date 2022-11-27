@@ -1,5 +1,5 @@
 # This project deetcts the position of clicks on the image and finally provides a warp perspective after 4 clicks.
-# let's Starts By Importing required Libraries
+# let's Starts By Importing required Libraries.
 import cv2
 import numpy as np
 
@@ -15,7 +15,7 @@ def mousePoints(event,x,y,flags,params):
         print(circles)
 
 
-#reading image stored in same folder
+#reading image stored in same folder.
 img = cv2.imread('cards.jpg')
 while True:
 
